@@ -1,0 +1,5 @@
+zh:
+  field_extra_remote_revision_text: "远程修订文本"
+  field_extra_remote_revision_text_info: "自定义链接文字。 如果为空，则默认为远程修订URL中的域名。"
+  field_extra_remote_revision_url: "远程修订URL"
+  field_extra_remote_revision_url_info: "在应出现修订标识符的URL中插入<em>:revision</em>(例如https://website.com/my/project/commit/:revision)。"
