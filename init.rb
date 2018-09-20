@@ -10,7 +10,7 @@ Redmine::Plugin.register :redmine_remote_revision_url do
   name 'Remote Revision URL'
   author 'zhangqiuyun@infohold.com.cn'
   description 'The Redmine Remote Revision URL plugin adds a revision link to a remote website to see more details on a commit/revision.'
-  version '0.3.2'
+  version '1.0.0'
   url 'https://github.com/qbcbyb/redmine_remote_revision_url'
   author_url 'https://github.com/qbcbyb'
   settings :default => {
